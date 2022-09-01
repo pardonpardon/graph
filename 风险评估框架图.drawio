@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T10:41:37.313Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.101 Safari/537.36" version="20.2.0" etag="OSN-wQptDCtxdrEFIOqW" type="github"><diagram id="LXghg52NQkdboGdz391r">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-01T10:53:19.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.101 Safari/537.36" etag="AHUFWVnfuUmITyZoClLO" version="20.2.0" type="github">
+  <diagram id="LXghg52NQkdboGdz391r" name="Page-1">
+    <mxGraphModel dx="1372" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rdHQfVwRmRxQzsnUEYyg-1" value="问卷、体检信息收集系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rdHQfVwRmRxQzsnUEYyg-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="280" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rdHQfVwRmRxQzsnUEYyg-4" value="可解释性模型计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rdHQfVwRmRxQzsnUEYyg-5" value="评估报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rdHQfVwRmRxQzsnUEYyg-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="279.5" as="sourcePoint" />
+            <mxPoint x="380" y="279.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
